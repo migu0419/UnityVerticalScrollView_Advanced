@@ -1,0 +1,46 @@
+# ---------------[ Unity generated ]------------------ #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+UnityGenerated/
+ProjectSettings/*.asset
+*/Assets/Plugins/Android/google_play_services/docs/reference/
+Library/
+
+# ----[ Visual Studio / MonoDevelop generated ]------- #
+
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*/Assets/Plugins/Editor/VSCode.cs
+*/Assets/Plugins/Editor/VSCode.cs.meta
+.vscode/
+vscode/
+VSCode.cs
+VSCode.cs.meta
+
+# ----[ VIM generated ]------- #
+*.swp
+*.un~
+
+# -------------[ OS generated ]------------------------ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# -------------[ Build ]------------------------ #
+*.html
+*.unity3d
+!/Assets/WebGLTemplates/*/*.html
